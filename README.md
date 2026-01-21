@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Samantha Virtudazo</h1>
-<h3 align="center">A computer science undergraduate with an interest in full-stack development and data analytics</h3>
+<h3 align="center">A computer science undergraduate exploring full-stack development</h3>
+<br>
 
 👩🏻‍💻 I’m currently working on my GitHub portfolio through hands-on projects.
 
