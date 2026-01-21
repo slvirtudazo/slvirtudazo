@@ -5,7 +5,7 @@
 
 💡 I’m currently learning HTML and CSS to strengthen my front-end development skills.
 
-📧 How to reach me: <a href="mailto:samanthaavirtudazo@gmail.com" target="_blank" rel="noreferrer">samanthaavirtudazo@gmail.com</a> 
+📧 How to reach me: <a href="mailto:samanthaavirtudazo@gmail.com" target="_blank" rel="noreferrer">samanthaavirtudazo@gmail.com</a>
 
 🤓 Fun fact: I initially planned to pursue game development because of my passion for video games and creating detailed, interactive worlds.
 
