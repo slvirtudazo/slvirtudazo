@@ -6,13 +6,13 @@
 💡 I’m currently learning HTML and CSS to strengthen my front-end development skills.
 
 📧 How to reach me:
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnlTWgThxNVbbHqDWXSPwlLKGvpqMnGGjTHrKTxqLvfpsqnfFJMZBpWJzMmlhJSTJMdvW" target="_blank" rel="noreferrer">samanthaavirtudazo@gmail.com</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=samanthaavirtudazo@gmail.com" target="_blank" rel="noreferrer">samanthaavirtudazo@gmail.com</a>
 
 🤓 Fun fact: I initially planned to pursue game development because of my passion for video games and creating detailed, interactive worlds.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/slvirtudazo" target="blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/slvirtudazo" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="slvirtudazo" height="30" width="40" />
   </a>
 </p>
